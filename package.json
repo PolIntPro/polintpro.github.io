@@ -2,10 +2,10 @@
     "name": "polintpro.github.io",
     "version": "1.0.0",
     "description": "",
-    "main": "index.js",
+    "type": "module",
     "scripts": {
         "dev": "next dev",
-        "build": "next build -d",
+        "build": "next build --turbopack -d",
         "lint": "next lint",
         "prettify": "pnpx prettier -w ."
     },
