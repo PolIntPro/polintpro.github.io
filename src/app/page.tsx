@@ -1,9 +1,5 @@
-import { Box, Typography } from "@mui/material"
+import Home from "@/app/home.md"
 
-export default function Home() {
-    return (
-        <Box>
-            <Typography>Home page</Typography>
-        </Box>
-    )
+export default function Index() {
+    return <Home />
 }
