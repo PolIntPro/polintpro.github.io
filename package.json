@@ -1,34 +1,34 @@
 {
-  "name": "polintpro.github.io",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "dev": "next dev --turbopack",
-    "build": "next build",
-    "lint": "next lint",
-    "prettify": "pnpx prettier -w ."
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "packageManager": "pnpm@10.13.1",
-  "devDependencies": {
-    "@eslint/eslintrc": "^3.3.1",
-    "@types/node": "24.0.13",
-    "eslint": "^9.30.1",
-    "eslint-config-next": "^15.3.5",
-    "eslint-plugin-compat": "^6.0.2",
-    "prettier": "^3.6.2",
-    "typescript": "^5.8.3"
-  },
-  "dependencies": {
-    "@emotion/styled": "^11.14.1",
-    "@mui/icons-material": "^7.2.0",
-    "@mui/material": "^7.2.0",
-    "@mui/material-nextjs": "^7.2.0",
-    "next": "^15.3.5",
-    "react": "^19.1.0",
-    "react-dom": "^19.1.0"
-  }
+    "name": "polintpro.github.io",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "dev": "next dev --turbopack",
+        "build": "next build",
+        "lint": "next lint",
+        "prettify": "pnpx prettier -w ."
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "packageManager": "pnpm@10.11.0",
+    "devDependencies": {
+        "@eslint/eslintrc": "^3.3.1",
+        "@types/node": "24.0.13",
+        "eslint": "^9.30.1",
+        "eslint-config-next": "^15.3.5",
+        "eslint-plugin-compat": "^6.0.2",
+        "prettier": "^3.6.2",
+        "typescript": "^5.8.3"
+    },
+    "dependencies": {
+        "@emotion/styled": "^11.14.1",
+        "@mui/icons-material": "^7.2.0",
+        "@mui/material": "^7.2.0",
+        "@mui/material-nextjs": "^7.2.0",
+        "next": "^15.3.5",
+        "react": "^19.1.0",
+        "react-dom": "^19.1.0"
+    }
 }
