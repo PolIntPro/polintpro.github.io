@@ -1,4 +1,4 @@
-import Home from "@/app/home.md"
+import Home from "@/app/home.mdx"
 
 export default function Index() {
     return <Home />
